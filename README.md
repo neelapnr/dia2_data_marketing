@@ -1,6 +1,5 @@
 # dia2_data_marketing
 
-
 # Nettoyage et EDA – Segmentation Clients
 
 ## Objectif
