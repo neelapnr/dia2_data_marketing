@@ -1,0 +1,12 @@
+# Données CRM (trop volumineuses pour git, ne pas versionner)
+Lumina & Co - CRM/
+
+# Mac
+.DS_Store
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
