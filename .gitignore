@@ -34,4 +34,21 @@ venv/
 
 # Ruff / mypy
 .ruff_cache/
+
 .mypy_cache/
+
+
+# PyPI configuration file
+.pypirc
+
+# Marimo
+marimo/_static/
+marimo/_lsp/
+__marimo__/
+
+# Streamlit
+.streamlit/secrets.toml
+
+
+*.csv
+
