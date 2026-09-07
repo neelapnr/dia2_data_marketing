@@ -4,9 +4,34 @@ Lumina & Co - CRM/
 # Mac
 .DS_Store
 
-# Jupyter / Python
-.ipynb_checkpoints/
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
-.venv/
+*.py[codz]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Unit test / coverage reports
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+env/
 venv/
+
+# PyCharm / VS Code
+# .idea/
+# .vscode/
+
+# Ruff / mypy
+.ruff_cache/
+.mypy_cache/
